@@ -1,1 +1,1 @@
-# sample latex presentation using beamer
+Sample latex presentation using beamer
